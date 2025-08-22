@@ -1,0 +1,1 @@
+A crime report app which automatically generates a clear title, description, and type of incident from uploaded images of the Users. Admins can view all submitted reports, verify details, and take action efficiently from their dashboard.
